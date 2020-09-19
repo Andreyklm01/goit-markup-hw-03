@@ -153,6 +153,7 @@ img {
 /* FEATURES */
 .features-section {
   padding-top: 94px;
+  padding-bottom: 94px;
 }
 .features-list {
   display: flex;
@@ -181,7 +182,6 @@ img {
 
 /* WHAT WE DO */
 .activity-section {
-  padding-top: 94px;
   padding-bottom: 94px;
 }
 
